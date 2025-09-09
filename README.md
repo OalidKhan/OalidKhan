@@ -1,15 +1,17 @@
 ### Hi there, I'm Oalid Khan 👋
 # 💫 About Me:
-🔭I am currently involved in my academics.<br>👯I’m looking to learn from other programmers.<br>🤝I am seeking assistance with competitive programming.<br>🌱I’m currently learning web development and some other courses.<br>⚡Fun fact: I love to watch tech-related videos
+🔭I am currently involved in my academics.<br>👯I’m looking to learn from other programmers.<br>🤝I am seeking assistance with competitive programming.<br>⚡Fun fact: I love to watch football
 
 
 ## 🌐 Profiles:
 
-[![CodeForces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/OalidKhan)
+[![CodeForces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/oalidkhan69)
 [![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/OalidKhan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/OalidKhan)
-# 💻 Tech Stack:
+
+# 💻 Programming Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=OalidKhan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OalidKhan&theme=dark&hide_border=false)<br/>
