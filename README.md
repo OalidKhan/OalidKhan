@@ -6,6 +6,7 @@
 ## 🌐 Profiles:
 
 [![CodeForces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/oalidkhan69)
+[![HackerRank](https://img.shields.io/badge/Hackerrank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://codeforces.com/profile/oalidkhan69)
 [![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/OalidKhan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/OalidKhan)
 
