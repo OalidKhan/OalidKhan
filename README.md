@@ -26,4 +26,6 @@
 
 ---
 
+![](https://komarev.com/ghpvc/?username=OalidKhan&label=Profile%20views&color=0e75b6&&style=for-the-badge)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
