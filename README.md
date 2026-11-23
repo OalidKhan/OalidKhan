@@ -12,6 +12,8 @@
 
 # 💻 Programming Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/cpp-%2300599C.svg?style=for-the-badge&logo=cpp&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=OalidKhan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
